@@ -32,4 +32,17 @@ C:\Users\Connor\Desktop\ConnorBBoxStoryTimeTAKE2>notepad ConnorBBoxStoryTimeTAKE
 ## fixed some things.
 
 ##Part 2
+C:\Users\Connor\Desktop\ConnorBBoxStoryTimeTAKE2>git push
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 535 bytes | 535.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/ConnorBugge/ConnorBBoxStoryTimeTAKE2.git
+   aa202a9..72ca0bc  connor -> connor
+
+##part 3 
+
+
 
